@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 Aplicação desenvolvida usando Node.js e Postgres.
 
-Consiste em demontrar a conexão entre o banco de dados com o node.
+Consiste em demontrar a conexão entre o banco de dados com o node e a contrução de APIs.
 
 ### Licença
 
